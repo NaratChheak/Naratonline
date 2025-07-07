@@ -1,0 +1,29 @@
+.subtitle {
+  color: #facc15;
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+
+.description {
+  color: #d1d5db; /* Light gray */
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.download-button {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+  padding: 1rem;
+  margin-top: 1rem;
+  width: 100%;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.download-button:hover {
+  background-color: #2563eb;
+}
